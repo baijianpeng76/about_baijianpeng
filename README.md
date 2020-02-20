@@ -2,4 +2,4 @@
 
 您还可以使用这里分享的二维码图片（文件名：baijianpeng_wechat_QRcode.jpg）来添加我的微信。
 
-![image](https://github.com/baijianpeng76/goodtest/blob/master/baijianpeng_wechat_QRcode.jpg)
+<img src="https://github.com/baijianpeng76/goodtest/blob/master/baijianpeng_wechat_QRcode.jpg" width="400px" />
